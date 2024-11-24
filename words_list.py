@@ -1,0 +1,46 @@
+# words for hangman game
+animals =  ("aardvark", "albatross", "alligator", "alpaca", "ant", "anteater", "antelope", "ape", "armadillo", "donkey",
+    "baboon", "badger", "barracuda", "bat", "bear", "beaver", "bee", "bison", "boar", "buffalo",
+    "butterfly", "camel", "capybara", "caribou", "cassowary", "cat", "caterpillar", "cattle", "chamois", "cheetah",
+    "chicken", "chimpanzee", "chinchilla", "chough", "clam", "cobra", "cockroach", "cod", "cormorant", "coyote",
+    "crab", "crane", "crocodile", "crow", "curlew", "deer", "dinosaur", "dog", "dogfish", "dolphin",
+    "dotterel", "dove", "dragonfly", "duck", "dugong", "dunlin", "eagle", "echidna", "eel", "eland",
+    "elephant", "elk", "emu", "falcon", "ferret", "finch", "fish", "flamingo", "fly", "fox",
+    "frog", "gaur", "gazelle", "gerbil", "giraffe", "gnat", "gnu", "goat", "goldfinch", "goldfish",
+    "goose", "gorilla", "goshawk", "grasshopper", "grouse", "guanaco", "gull", "hamster", "hare", "hawk",
+    "hedgehog", "heron", "herring", "hippopotamus", "hornet", "horse", "human", "hummingbird", "hyena", "ibex",
+    "ibis", "jackal", "jaguar", "jay", "jellyfish", "kangaroo", "kingfisher", "koala", "komodo dragon", "kookaburra")
+
+players_fullname = (
+    "Virat Kohli", "Sachin Tendulkar", "Ricky Ponting", "Brian Lara", "Jacques Kallis",
+    "Kumar Sangakkara", "AB de Villiers", "Mahendra Singh Dhoni", "Steve Smith", "Chris Gayle",
+    "David Warner", "Kane Williamson", "Joe Root", "Ben Stokes", "Hashim Amla",
+    "Inzamam-ul-Haq", "Sourav Ganguly", "Younis Khan", "Adam Gilchrist", "Michael Clarke",
+    "Shane Warne", "Glenn McGrath", "Brett Lee", "Lasith Malinga", "Muttiah Muralitharan",
+    "Anil Kumble", "Wasim Akram", "Waqar Younis", "Shaun Pollock", "Daniel Vettori",
+    "Andrew Flintoff", "Mahela Jayawardene", "Rahul Dravid", "Shoaib Akhtar", "Matthew Hayden",
+    "Virender Sehwag", "Imran Khan", "Curtly Ambrose", "Courtney Walsh", "James Anderson",
+    "Stuart Broad", "Dale Steyn", "Mitchell Johnson", "Pat Cummins", "Jason Holder",
+    "Ravichandran Ashwin", "Shakib Al Hasan", "Rashid Khan", "Moeen Ali", "Jos Buttler",
+    "Rohit Sharma", "Shubman Gill", "Hardik Pandya", "KL Rahul", "Jasprit Bumrah",
+    "Babar Azam", "Mohammad Rizwan", "Shaheen Afridi", "Shai Hope", "Andre Russell",
+    "Kieron Pollard", "Marlon Samuels", "Faf du Plessis", "Quinton de Kock", "Aiden Markram",
+    "Ross Taylor", "Trent Boult", "Tim Southee", "Shane Bond", "Brendon McCullum",
+    "Martin Guptill", "Mitchell Starc", "Nathan Lyon", "Usman Khawaja", "Ricky Ponting",
+    "Kevin Pietersen", "Andrew Strauss", "Graeme Swann", "Alastair Cook", "Ian Bell",
+    "Jofra Archer", "Chris Woakes", "David Miller", "AB de Villiers", "Mohammad Amir",
+    "Yasir Shah", "Saeed Anwar", "Aravinda de Silva", "Chaminda Vaas", "Sanath Jayasuriya",
+    "Dinesh Chandimal", "Angelo Mathews", "Tillakaratne Dilshan", "Rangana Herath",
+    "Sunil Narine", "Dwayne Bravo", "Shivnarine Chanderpaul", "Chris Gayle", "Roston Chase"
+)
+
+player_name = ("Virat", "Sachin", "Rohit", "MS", "Sunil", "Kapil", "Sourav", "Rahul", "Yuvraj", "Jasprit",
+    "Hardik", "Shikhar", "Anil", "Zaheer", "Irfan", "Dinesh", "VVS", "Suresh", "Mohammed", "Ravindra",
+    "Kane", "Steve", "David", "Pat", "Aaron", "Mitchell", "Glenn", "Shane", "Adam", "Ricky",
+    "Jacques", "AB", "Hashim", "Dale", "Shaun", "Graeme", "Makhaya", "Faf", "Quinton", "Herschelle",
+    "Brian", "Chris", "Courtney", "Curtly", "Vivian", "Shivnarine", "Dwayne", "Andre", "Jason", "Carl",
+    "James", "Ben", "Joe", "Stuart", "Alastair", "Jofra", "Jos", "Jonny", "Eoin", "Moeen",
+    "Muttiah", "Kumar", "Sanath", "Angelo", "Mahela", "Tillakaratne", "Lasith", "Chaminda", "Dinesh", "Nuwan",
+    "Shahid", "Wasim", "Waqar", "Inzamam", "Shoaib", "Imran", "Misbah", "Babar", "Fakhar", "Mohammad",
+    "Kieron", "Sunil", "Nicholas", "Shai", "Devon", "Tim", "Trent", "Neil", "Colin", "Martin",
+    "Rashid", "Mohammad", "Mujeeb", "Mohammad", "Asghar", "Kevin", "Paul", "Andy", "Eddo", "Heath")
